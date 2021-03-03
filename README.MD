@@ -3,14 +3,11 @@
 ## I am a nooby developer, I like to mess around with a bunch of stuff!
 
 - 💻 I enjoy using PHP, MYSQL, HTML, CSS, and Javascript (Mostly Node.js)
-- 🎲 I play a lot of Runescape, CS:GO, and Minecraft [steam]
+- 🎲 I play a lot of Runescape, CS:GO, and Minecraft 
 - 🐮 I enjoy talking to new people Cookie Eats#6779
 
 
 ## Connect with me:
-[<img align="left" alt="Steam" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2014/240/iconmonstr-steam-5.png" /> [steam]
-[<img align="left" alt="Steam" width="22px" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" /> 
+ - Steam: https://steamcommunity.com/id/sgcookieeater
+ - Discord: Cookie Eats#6779
 
-<br>
-
-[steam]:http://steamcommunity.com/sgcookieeater
